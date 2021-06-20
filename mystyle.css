@@ -1,0 +1,39 @@
+table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  background: black;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+tr {
+  color: white;
+  width: 50%;
+  padding: 20px;
+  resize: both;
+  overflow: auto;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+address {
+  font-weight: bold;
+  padding-right: 60px;
+}
+#name {
+  text-align: center;
+  font-size: larger;
+  letter-spacing: 2px;
+}
+#job {
+  text-align: center;
+  color: rgb(179,193,146);
+  font-size: x-large;
+}
+span{
+    color: #c4a287;
+    font-weight: bold;
+}
